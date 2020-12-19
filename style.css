@@ -118,6 +118,8 @@ body{
             margin:o;
             height:135px;
             width:130px;
+            position: absolute;
+            right:15%;
         }
         .cube-face-front > h1 {
             left:0%;
@@ -126,21 +128,21 @@ body{
             height: 130px;
             width: 140px;
             left:30%;
-            top: 33%;
+            top: 30%;
         }
         .quotes > p {
             float:none;
             left:30%;
-            top:50%;
+            top:55%;
             font-size: 15px;
         }
         .bottom > marquee {
-           top:70%;
+           top:85%;
            left:0;
         }
         h5{
             position: absolute;
-            top:75%;
+            top:95%;
             font-size: 15px;
         }
       }
